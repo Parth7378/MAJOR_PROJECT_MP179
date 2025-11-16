@@ -1,7 +1,8 @@
 run 
 
 dataset_yolo.py
-then
+then-->
+model.py-->
 train_model.py
-then
+then-->
 sample_ui.py
